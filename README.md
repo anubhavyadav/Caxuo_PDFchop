@@ -9,20 +9,23 @@
 </p>
 
 ---
+
+**Go to Download page >>** https://github.com/anubhavyadav/Caxuo_PDFchop/releases/tag/v1.0.2
+
+---
+
+## 📌 What is Caxuo PDFchop?
+
+- Caxuo PDFchop is a **free, lightweight, and portable** Windows GUI app for **bulk/batch PDF processing**.  
+- Perform multiple tasks on hundreds of PDFs at once — without installation.
+
 <p align="center">
   <img width="600" height="350" alt="Caxuo PDFchop Banner highlighting 5 processes" src="https://github.com/user-attachments/assets/8c096c78-a4e1-4b52-949a-13c46affd50d" />
 </p>
 
-## 📌 What is Caxuo PDFchop?
-
-Caxuo PDFchop is a **free, lightweight, and portable** Windows GUI app for **bulk/batch PDF processing**.  
-Perform multiple tasks on hundreds of PDFs at once — without installation.
-
 ---
 
-<p align="center">
-  <img width="602" height="602" alt="Caxuo PDFchop Home Screen Layout" src="https://github.com/user-attachments/assets/99b3a26a-bfd2-4ff2-a52c-d7bdcda74472" />
-</p>
+
 
 ## ✨ Key Features
 
@@ -32,7 +35,9 @@ Perform multiple tasks on hundreds of PDFs at once — without installation.
 - 📑 **Merge** — Merge multiple PDFs with options for alphabetical/reverse order, index creation, and page numbering  
 - 🖼️ **Extract** — Convert each page into JPG or PNG images  
 
----
+<p align="center">
+  <img width="602" height="602" alt="Caxuo PDFchop Home Screen Layout" src="https://github.com/user-attachments/assets/99b3a26a-bfd2-4ff2-a52c-d7bdcda74472" />
+</p>
 
 ## 🖥️ Layout at a Glance
 
@@ -64,8 +69,4 @@ Perform multiple tasks on hundreds of PDFs at once — without installation.
 
 ---
 
-## 📥 Download & More Info
-
-<p align="center">
-  <strong>⬇️ <a href="<download_link_placeholder>">Get the latest version here</a> ⬇️</strong>
-</p>
+**Go to Download page >>** https://github.com/anubhavyadav/Caxuo_PDFchop/releases/tag/v1.0.2
