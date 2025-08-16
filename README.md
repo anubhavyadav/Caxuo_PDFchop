@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="<logo_placeholder>" alt="Caxuo PDFchop Logo" width="140">
+  <img width="400" height="400" alt="Caxuo PDFchop Logo" src="https://github.com/user-attachments/assets/9cd1ffac-b27e-4058-ba2e-883d757466b9" />
 </p>
 
 <h1 align="center">📄 Caxuo PDFchop</h1>
@@ -9,18 +9,9 @@
 </p>
 
 ---
-
 <p align="center">
-  <img src="<banner_placeholder>" alt="Caxuo PDFchop Banner">
+  <img width="600" height="350" alt="Caxuo PDFchop Banner highlighting 5 processes" src="https://github.com/user-attachments/assets/8c096c78-a4e1-4b52-949a-13c46affd50d" />
 </p>
-
----
-
-<p align="center">
-  <img src="<homescreen_placeholder>" alt="Caxuo PDFchop Home Screen">
-</p>
-
----
 
 ## 📌 What is Caxuo PDFchop?
 
@@ -28,6 +19,10 @@ Caxuo PDFchop is a **free, lightweight, and portable** Windows GUI app for **bul
 Perform multiple tasks on hundreds of PDFs at once — without installation.
 
 ---
+
+<p align="center">
+  <img width="602" height="602" alt="Caxuo PDFchop Home Screen Layout" src="https://github.com/user-attachments/assets/99b3a26a-bfd2-4ff2-a52c-d7bdcda74472" />
+</p>
 
 ## ✨ Key Features
 
