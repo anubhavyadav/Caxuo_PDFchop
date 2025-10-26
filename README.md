@@ -41,7 +41,7 @@
 > The interface is divided into four intuitive sections:
 > 1. 📂 **Status Bar and Progress Bar** — Notify you about Steps to be taken and progress during export
 > 2. 📂 **File List** — Add, remove or rearrange your PDFs in the list
-> 3. ⚙️ **Process Selection and Preferences Panel** — Choose from Compress, Watermark, Rotate, Merge or Extract and then Adjust process-specific options
+> 3. ⚙️ **Process Selection and Preferences Panel** — Choose from Compress, Watermark, Rotate, Merge or Extract. Then Adjust process-specific options
 > 4. 📤 **Export** — Choose output folder and start processing by pressing Export button
 
 ---
@@ -59,7 +59,7 @@
 
 ### 💡 Advantages - Why choose Caxuo PDFchop?
 
-- 🧩 Five PDFs related essential processes in one app
+- 🧩 Five PDF related essential processes in one app
 - 🚀 Free to use, Lightweight & portable — no installation needed  
 - 📊 Progress & status bar for visual feedback  
 - ⏹️ Cancel export anytime  
