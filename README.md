@@ -22,8 +22,6 @@
   <img width="602" alt="Caxuo PDFchop Banner highlighting Five PDF related processes" src="https://github.com/user-attachments/assets/8c096c78-a4e1-4b52-949a-13c46affd50d" />
 </p>
 
----
-
 ### ✨ Key Features of the App
 
 - 📉 **Compress** — Compression multiple PDFs by choosing among Lossless, Best, Extreme, or Insane
@@ -32,11 +30,11 @@
 - 📑 **Merge** — Combine multiple PDFs (supports alphabetical, reverse, index, and numbering modes)
 - 🖼️ **Extract** — Convert each page of multiple PDFs into individual JPG or PNG images
 
+---
+
 <p align="center">
   <img width="602" alt="Caxuo PDFchop Home Screen Layout" src="https://github.com/user-attachments/assets/99b3a26a-bfd2-4ff2-a52c-d7bdcda74472" />
 </p>
-
----
 
 ### 🖥️ App Layout Overview
 
