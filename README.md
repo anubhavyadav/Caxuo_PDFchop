@@ -16,8 +16,7 @@
 
 ### 📌 About Caxuo PDFchop App
 
-**Caxuo PDFchop** is a lightweight, portable Windows tool for **batch/bulk PDF processing**.  
-It lets you compress, watermark, rotate, merge, or extract hundreds of PDFs — quickly and without installation.
+**Caxuo PDFchop** is a Free, lightweight, portable Windows tool for Five(5) processes related to PDF in batch/bulk including Compress, Watermark, Rotate, Merge, or Extract pages — quickly and without installation.
 
 <p align="center">
   <img width="602" alt="Caxuo PDFchop Banner highlighting 5 PDF related processes" src="https://github.com/user-attachments/assets/8c096c78-a4e1-4b52-949a-13c46affd50d" />
@@ -30,7 +29,7 @@ It lets you compress, watermark, rotate, merge, or extract hundreds of PDFs — 
 > The interface is divided into four intuitive sections:
 > 1. 📂 **Status Bar and Progress Bar** — Notify you about Steps to be taken and progress during export
 > 2. 📂 **File List** — Add, remove or rearrange your PDFs to the list
-> 3. ⚙️ **Process Selection and PrePreferences Panel** — Choose from Compress, Watermark, Rotate, Merge, or Extract and then Adjust process-specific options
+> 3. ⚙️ **Process Selection and Preferences Panel** — Choose from Compress, Watermark, Rotate, Merge, or Extract and then Adjust process-specific options
 > 4. 📤 **Export** — Choose output folder and start processing by pressing Export button
 
 <p align="center">
@@ -42,7 +41,7 @@ It lets you compress, watermark, rotate, merge, or extract hundreds of PDFs — 
 ### ✨ Key Features of the App
 
 - 📉 **Compress** — Choose compression level: Lossless, Best, Extreme, or Insane  
-- 🖋️ **Watermark** — Add text or image watermarks (position, rotation, transparency)  
+- 🖋️ **Watermark** — Add text or image watermarks (you can adjust position, rotation, transparency)  
 - 🔄 **Rotate** — Rotate PDF pages in multiples of 90°  
 - 📑 **Merge** — Combine multiple PDFs (supports alphabetical, reverse, index, and numbering modes)  
 - 🖼️ **Extract** — Convert each page into individual JPG or PNG images
@@ -66,8 +65,8 @@ It lets you compress, watermark, rotate, merge, or extract hundreds of PDFs — 
 - 📊 Progress & status bar for visual feedback  
 - ⏹️ Cancel export anytime  
 - 💻 Works 100% offline (No Adware or Bloatware)
-- 🧩 Process hundreds of files in bulk/batch
-- 🚫 No watermark in Compress, Rotate, merge and Extract process of the App 
+- 🧩 Process hundreds of PDFs in bulk/batch
+- 🚫 No watermark in Compress, Rotate, Merge and Extract process of the App 
 
 ---
 
