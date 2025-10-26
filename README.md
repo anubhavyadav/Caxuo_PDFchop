@@ -1,16 +1,16 @@
 <p align="center">
-  <img width="400" height="400" alt="Caxuo PDFchop Logo" src="https://github.com/user-attachments/assets/9cd1ffac-b27e-4058-ba2e-883d757466b9" />
+  <img width="200" alt="Caxuo PDFchop App Logo" src="https://github.com/user-attachments/assets/9cd1ffac-b27e-4058-ba2e-883d757466b9" />
 </p>
 
-<h2 align="center">📄 Caxuo PDFchop</h2>
+<h2 align="center">📄 Caxuo PDFchop for Windows</h2>
 
 <p align="center">
-  <em>Free, fast, and portable bulk PDF processor for Windows</em>
+  <em>Free Bulk PDF Processor for Windows with five essential PDF related processes — Fast, Portable & Easy to use</em>
 </p>
 
 ---
 
-**Go to Download page >>** https://github.com/anubhavyadav/Caxuo_PDFchop/releases/tag/v1.0.2
+**Go to Download page >>** https://github.com/anubhavyadav/Caxuo_PDFchop/releases/latest
 
 ---
 
@@ -70,11 +70,14 @@ It lets you compress, watermark, rotate, merge, or extract hundreds of PDFs — 
 
 ---
 
-### 🤝 Community & Feedback
+### ❤️ Community & Feedback
 
-- **We welcome your feedback and suggestions >>** https://github.com/anubhavyadav/Caxuo_PDFchop/issues  
-- **Learn more about Caxuo Apps >>** https://levelup.caxuo.com/2025/04/free-productivity-softwares-by-caxuo.html  
+📣 **We welcome your feedback and suggestions** to help improve and evolve this app.
+
+- **Raise an issue >>** https://github.com/anubhavyadav/Caxuo_PDFchop/issues
+
+- **Learn more about all Caxuo Apps >>** https://levelup.caxuo.com/2025/04/free-productivity-softwares-by-caxuo.html  
 
 ---
 
-**Go to Download page >>** https://github.com/anubhavyadav/Caxuo_PDFchop/releases/tag/v1.0.2
+**Go to Download page >>** https://github.com/anubhavyadav/Caxuo_PDFchop/releases/latest
