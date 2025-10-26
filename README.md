@@ -24,20 +24,6 @@
 
 ---
 
-### 🖥️ App Layout Overview
-
-> The interface is divided into four intuitive sections:
-> 1. 📂 **Status Bar and Progress Bar** — Notify you about Steps to be taken and progress during export
-> 2. 📂 **File List** — Add, remove or rearrange your PDFs in the list
-> 3. ⚙️ **Process Selection and Preferences Panel** — Choose from Compress, Watermark, Rotate, Merge, or Extract and then Adjust process-specific options
-> 4. 📤 **Export** — Choose output folder and start processing by pressing Export button
-
-<p align="center">
-  <img width="602" alt="Caxuo PDFchop Home Screen Layout" src="https://github.com/user-attachments/assets/99b3a26a-bfd2-4ff2-a52c-d7bdcda74472" />
-</p>
-
----
-
 ### ✨ Key Features of the App
 
 - 📉 **Compress** — Compression multiple PDFs by choosing among Lossless, Best, Extreme, or Insane
@@ -45,6 +31,20 @@
 - 🔄 **Rotate** — Rotate PDF pages in multiples of 90°
 - 📑 **Merge** — Combine multiple PDFs (supports alphabetical, reverse, index, and numbering modes)
 - 🖼️ **Extract** — Convert each page of multiple PDFs into individual JPG or PNG images
+
+<p align="center">
+  <img width="602" alt="Caxuo PDFchop Home Screen Layout" src="https://github.com/user-attachments/assets/99b3a26a-bfd2-4ff2-a52c-d7bdcda74472" />
+</p>
+
+---
+
+### 🖥️ App Layout Overview
+
+> The interface is divided into four intuitive sections:
+> 1. 📂 **Status Bar and Progress Bar** — Notify you about Steps to be taken and progress during export
+> 2. 📂 **File List** — Add, remove or rearrange your PDFs in the list
+> 3. ⚙️ **Process Selection and Preferences Panel** — Choose from Compress, Watermark, Rotate, Merge, or Extract and then Adjust process-specific options
+> 4. 📤 **Export** — Choose output folder and start processing by pressing Export button
 
 ---
 
