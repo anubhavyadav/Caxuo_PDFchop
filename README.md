@@ -10,13 +10,13 @@
 
 ---
 
-👉**Go to Download page >>** https://github.com/anubhavyadav/Caxuo_PDFchop/releases/latest
+👉 **Go to Download page >>** https://github.com/anubhavyadav/Caxuo_PDFchop/releases/latest
 
 ---
 
 ### 📌 About Caxuo PDFchop App
 
-**Caxuo PDFchop** is a Free, lightweight, portable Windows tool for Five(5) processes related to PDF including Compress, Watermark, Rotate, Merge or Extract pages in batch/bulk - quickly and without installation.
+- **Caxuo PDFchop** is a Free, lightweight, portable Windows tool for Five(5) processes related to PDF including Compress, Watermark, Rotate, Merge or Extract pages in batch/bulk - quickly and without installation.
 
 <p align="center">
   <img width="602" alt="Caxuo PDFchop Banner highlighting Five PDF related processes" src="https://github.com/user-attachments/assets/8c096c78-a4e1-4b52-949a-13c46affd50d" />
@@ -38,13 +38,14 @@
 
 ### 💡 Advantages - Why choose Caxuo PDFchop?
 
-- 🧩 Five PDF related essential processes in one app
-- 🚀 Free to use, Lightweight & portable — no installation needed  
-- 📊 Progress & status bar for visual feedback  
-- ⏹️ Cancel export anytime  
-- 💻 Works 100% offline (No Adware or Bloatware)
-- 🧩 Process hundreds of PDFs in bulk/batch
-- 🚫 No watermark in Compress, Rotate, Merge and Extract process of the App 
+- 🧩 Five PDF related essential processes in one app.
+- 🚀 Free to use, Lightweight & portable — no installation needed.
+- 📊 Progress & status bar for visual feedback.
+- ⏹️ Cancel export anytime.
+- 💻 Works 100% offline (No Adware or Bloatware).
+- 🧩 Process hundreds of PDFs in bulk/batch.
+- 🚫 No watermark in Compress, Rotate, Merge and Extract process of the App.
+- 💻 Easily Remove the App from your Computer - just Delete its unzipped Folder (No uninstallation required).
 
 ---
 
@@ -58,4 +59,4 @@
 
 ---
 
-👉**Go to Download page >>** https://github.com/anubhavyadav/Caxuo_PDFchop/releases/latest
+👉 **Go to Download page >>** https://github.com/anubhavyadav/Caxuo_PDFchop/releases/latest
