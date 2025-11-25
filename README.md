@@ -14,9 +14,9 @@
 
 ---
 
-### 📌 About Caxuo PDFchop App
+### 📌 About the App
 
-- **Caxuo PDFchop** is a Free, lightweight, portable Windows tool for Five(5) processes related to PDF including Compress, Watermark, Rotate, Merge or Extract pages in batch/bulk - quickly and without installation.
+- **Caxuo PDFchop** is a Free, lightweight, portable Windows tool for Five PDF related processes including Compress, Watermark, Rotate, Merge or Extract pages in batch/bulk - quickly and without installation.
 
 <p align="center">
   <img width="602" alt="Caxuo PDFchop Banner highlighting Five PDF related processes" src="https://github.com/user-attachments/assets/8c096c78-a4e1-4b52-949a-13c46affd50d" />
